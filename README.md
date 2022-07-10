@@ -1,18 +1,15 @@
 # [Udacity Robotics Projects](https://www.udacity.com/course/robotics-software-engineer--nd209)
 
+
 ## Build My World
 
 Create a Gazebo world, interact with it through plugins, and design models using Gazebo tools, such as the moderator tool and the building editor tool.
-
 
 ```
 gazebo world/myworld
 ```
 
-
-
-https://user-images.githubusercontent.com/7373750/178127705-ca59ec1a-f775-4e32-8751-fdc0f7bf0080.mov
-
+https://user-images.githubusercontent.com/7373750/178127868-a15e139f-9e04-4724-b58b-42521489839e.mov
 
 
 ## Go Chase it
@@ -21,16 +18,12 @@ Build a bold chaser mobile robot with ROS
 1. design the robot and house it inside my world
 2. program it to chase white colored balls through the world
 
-
 ```
 roslaunch my_robot world.launch
 roslaunch ball_chaser ball_chaser.launch
 ```
 
-
-
 https://user-images.githubusercontent.com/7373750/178127712-0104a459-7132-4545-b487-67427c4c2f4d.mov
-
 
 
 ## Where Am I
@@ -45,11 +38,7 @@ roslaunch my_robot world.launch
 roslaunch my_robot amcl.launch
 ```
 
-
-
-https://user-images.githubusercontent.com/7373750/178127719-4e3a8fd7-ef23-452d-bf8a-327e6d5dfd2d.mov
-
-
+https://user-images.githubusercontent.com/7373750/178127874-dfb523a4-2328-46e9-89c4-765a5b12bf5c.mov
 
 
 ## Map My World
@@ -63,7 +52,6 @@ roslaunch my_robot mapping.launch
 ```
 
 ![mapping_2D](https://user-images.githubusercontent.com/7373750/178127722-efb8881e-4bda-4cd4-9119-5fa77bc943b9.png)
-
 ![mapping_3D](https://user-images.githubusercontent.com/7373750/178127727-1ce5df2e-df5b-41f2-a013-c67193383aa9.png)
 
 
@@ -75,7 +63,4 @@ Program a robot that can autonomously map an environment and navigate to pick up
 bash src/scripts/home_service.sh
 ```
 
-
 https://user-images.githubusercontent.com/7373750/178127730-48abbc01-9201-4109-91f6-227daa8105f3.mov
-
-
