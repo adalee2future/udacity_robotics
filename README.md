@@ -9,7 +9,11 @@ Create a Gazebo world, interact with it through plugins, and design models using
 gazebo world/myworld
 ```
 
-https://user-images.githubusercontent.com/7373750/178127868-a15e139f-9e04-4724-b58b-42521489839e.mov
+
+
+https://user-images.githubusercontent.com/7373750/178127931-666cabd9-0647-414b-b332-870778493d3c.mov
+
+
 
 
 ## Go Chase it
