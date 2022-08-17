@@ -1,6 +1,6 @@
 # [Udacity Robotics Projects](https://www.udacity.com/course/robotics-software-engineer--nd209)
 
-My projects for [Udacity Robotics Projects](https://www.udacity.com/course/robotics-software-engineer--nd209)
+My projects for [Robotics Software Engineer](https://www.udacity.com/course/robotics-software-engineer--nd209)
 
 certificate: <https://graduation.udacity.com/confirm/DVYYUTRZ>
 
